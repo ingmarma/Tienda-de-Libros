@@ -16,6 +16,6 @@ Creamos una aplicación de tienda de libros con las tecnologías de **Swing y Sp
 
 #### - Por otro lado, en la capa de negocio o capa de servicio vamos a utilizar la tecnología de Spring.
 
-####En la capa de datos vamos a utilizar JPA con Hibernate y para poder almacenar nuestra información vamos a utilizar la base de datos de MySQL.
+#### En la capa de datos vamos a utilizar JPA con Hibernate y para poder almacenar nuestra información vamos a utilizar la base de datos de MySQL.
 
 
