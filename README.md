@@ -1,6 +1,6 @@
 # Tienda-de-Libros
 ### Aplicación de Tienda de Libros
-Creamos una aplicación de tienda de libros con las tecnologías de **Swing y SpringBoot.**
+#### Creamos una aplicación de tienda de libros con las tecnologías de **Swing y SpringBoot.**
 
 #### El usuario de nuestra aplicación tendrá la posibilidad de ver el listado de libros disponibles en la tienda.
 
