@@ -12,7 +12,7 @@
 
 #### - Por un lado la capa de presentación.
 
-#### - Vamos a utilizar la tecnología de Swing.
+#### - Utilizamos la tecnología de Swing.
 
 #### - Por otro lado, en la capa de negocio o capa de servicio vamos a utilizar la tecnología de Spring.
 
