@@ -16,6 +16,6 @@
 
 #### - Por otro lado, en la capa de negocio o capa de servicio utilizamos la tecnología de Spring.
 
-#### En la capa de datos utilizamos JPA con Hibernate y para poder almacenar nuestra información vamos a utilizar la base de datos de MySQL.
+#### En la capa de datos utilizamos JPA con Hibernate y para poder almacenar nuestra información utilizamos la base de datos de MySQL.
 
 
